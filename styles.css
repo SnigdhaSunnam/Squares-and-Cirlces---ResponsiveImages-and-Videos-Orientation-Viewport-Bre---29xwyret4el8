@@ -1,0 +1,11 @@
+.outer-square {
+  width:600px;
+  height:600px;
+  dispay:grid;
+}
+.inner-square {
+  /* your css goes here */
+}
+.circle {
+  /* your css goes here */
+}
